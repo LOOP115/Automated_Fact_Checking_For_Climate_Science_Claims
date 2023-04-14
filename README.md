@@ -1,2 +1,2 @@
-# Automated_Fact_Checking_For_Climate_Science_Claims
- 2023S1 - COMP90042 - Natural Language Processing - Project
+# Automated Fact Checking For Climate Science Claims
+## [Specification](resources/spec.pdf)
