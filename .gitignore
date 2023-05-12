@@ -1,1 +1,6 @@
-*.json
+.idea/
+.ipynb_checkpoints/
+
+data/
+outputs/
+prediction/

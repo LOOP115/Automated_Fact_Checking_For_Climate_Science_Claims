@@ -118,6 +118,25 @@ We created such a ‘baseline’ because a true random baseline that selects a r
 
 
 
+### Report
+
+A report should be submitted with the **description, analysis, and comparative assessment of methods used**.
+
+You should:
+
+* describe your methods in enough detail that we could replicate them without looking at your code
+* mention any choices you made in implementing your system along with empirical justification for those choices using the development set
+* detail both your development performance and the “Final Evaluation” performance on the Codalab leaderboard (details in the section below)
+* use tables and the appropriate charts to report your results/findings
+
+The description of your method should be clear and concise. You should write it at a level that a Masters student could read and understand without difficulty. If you use any existing algorithms, you do not have to rewrite the complete description, but must provide a summary that shows your understanding and you should provide a citation to reference(s) in the relevant literature. In the report, we will be very interested in seeing evidence of your thought processes and reasoning for choosing one approach over another (as indicated by the heavier weighting of the “soundness” criteria).
+
+The report should be submitted as a PDF, and be **no more than four A4 pages of content, excluding references**. Appendix is not allowed—you should therefore consider carefully the information that you want to include in the report to build a coherent and concise narrative.
+
+You should use the [ACL template](https://github.com/acl-org/acl-style-files) when writing your report. We prefer you to use LATEX, but you are permitted to use Word. You must **include your student number** under the title (using the `\author` field in LATEX and enabling the `\aclfinalcopy` option), but **not your name** so as to facilitate anonymous peer reviewing. We will not accept reports that are longer than the stated limits above, or otherwise violate the style requirements.
+
+
+
 ### Submission
 
 * Report (.pdf)
