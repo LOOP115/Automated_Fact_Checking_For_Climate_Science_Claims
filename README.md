@@ -1,5 +1,7 @@
 # Automated Fact Checking For Climate Science Claims
-## [Specification](resources/spec.pdf)
+### [Specification](resources/spec.pdf)
+
+### [Report](resources/report.pdf)
 
 
 
